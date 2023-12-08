@@ -4,6 +4,10 @@
 
 </p>
 
+## App Description
+
+This is an ordering app using where I build a complete Nest.js Microservices apllication using RabbitMQ as our distributed fault-tolerant message broker, MongoDB & Docker
+
 ## Stay in touch
 
 - Author - [Brayan Córdova](https://www.linkedin.com/in/bcordovag/)
@@ -17,7 +21,11 @@
 
 ```bash
 
+
+
 $  npm  install
+
+
 
 ```
 
@@ -25,21 +33,35 @@ $  npm  install
 
 ```bash
 
+
+
 # development
+
+
 
 $  npm  run  start
 
 
 
+
+
 # watch mode
+
+
 
 $  npm  run  start:dev
 
 
 
+
+
 # production mode
 
+
+
 $  npm  run  start:prod
+
+
 
 ```
 
@@ -47,21 +69,35 @@ $  npm  run  start:prod
 
 ```bash
 
+
+
 # unit tests
+
+
 
 $  npm  run  test
 
 
 
+
+
 # e2e tests
+
+
 
 $  npm  run  test:e2e
 
 
 
+
+
 # test coverage
 
+
+
 $  npm  run  test:cov
+
+
 
 ```
 
